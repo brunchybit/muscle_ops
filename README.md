@@ -1,4 +1,3 @@
-# muscle_pg
+# muscle_ops
 
-Learn High Availability Postgres with :muscle:
-
+Learn Ops with :muscle:
