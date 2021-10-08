@@ -6,6 +6,7 @@ require (
 	github.com/containerd/containerd v1.5.5 // indirect
 	github.com/docker/docker v20.10.8+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
+	github.com/go-chi/chi/v5 v5.0.4
 	github.com/morikuni/aec v1.0.0 // indirect
 	google.golang.org/grpc v1.40.0 // indirect
 )

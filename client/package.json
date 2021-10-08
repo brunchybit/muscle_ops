@@ -1,0 +1,16 @@
+{
+  "name": "muscle_ops_client",
+  "version": "1.0.0",
+  "source": "static/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": "https://github.com/brunchybit/muscle_ops",
+  "author": "brunchybit",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
