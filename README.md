@@ -1,4 +1,4 @@
-# muscle_pg
+# simulops
 
-Learn High Availability Postgres with :muscle:
+A simulation test environment for various High Availability learnings.
 
